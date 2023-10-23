@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="massage_button">Закрыть</string>
+    <string name="insert_text">Введите текст</string>
+    <string name="set_button">выбрать</string>
+    <string name="set_text">новое представление</string>
+    <string name="button_view_text">Представление с текстом</string>
+    <string name="button_buttons">Кнопки</string>
+    <string name="button_textField">Ввод текста</string>
+    <string name="button_progress">Прогрессбар</string>
+    <string name="button_alertDialog">Диалоговое окно</string>
+    <string name="title_alertDialog">Внимание</string>
+    <string name="alertDialog_about">Это диалоговое окно</string>
+    <string name="insert_email">Email</string>
+    <string name="MyRow">контейнер Row</string>
+    <string name="MyColumn">контейнер Column</string>
+    <string name="MyBox">контейнер Box</string>
+    <string name="MySurface">контейнер Surface</string>
+    <string name="MyScaffold">контейнер Scaffold</string>
+    <string name="first">Первый</string>
+    <string name="second">Втрой</string>
+    <string name="third">Третий</string>
+    <string name="Menu">Menu</string>
+    <string name="MyComposeApp">MyComposeApp</string>
+    <string name="MyScrollingScreen">Screen</string>
+    <string name="android"> Android </string>
+    <string name="kotlin"> Kotlin </string>
+    <string name="swift"> Swift </string>
+    <string name="ios"> IOS </string>
+    <string name="one"> Усовершенствованная архитекрура Android </string>
+    <string name="two"> Изучение Cotlin </string>
+    <string name="three">Grid </string>
+    <string name="book"> Книги </string>
+    <string name="grid_icon"> Икона </string>
+</resources>
